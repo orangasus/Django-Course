@@ -1,0 +1,48 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Here is one of many  CSS rules you will need... */
+
+div {
+    margin: 5px;
+    padding: 5px;
+    width: 25%;
+}
+
+a {
+    position: fixed;
+    top: 0;
+    right: 50%;
+    background: #0a4b33;
+    color: #ffffff;
+    font-family: 'Roboto', Corbel, Avenir, 'Lucida Grande', 'Lucida Sans', sans-serif;
+}
+
+#one {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    border: 5px solid blue;
+}
+
+#two {
+    position: fixed;
+    top: 0;
+    right: 0;
+    border: 5px solid green;
+}
+
+#three {
+    position: fixed;
+    top: 0;
+    left: 0;
+    border: 5px solid orange;
+}
+
+#four {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    border: 5px solid yellow;
+}
